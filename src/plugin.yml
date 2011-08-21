@@ -1,0 +1,11 @@
+name: PermTest
+main: to.joe.permtest.PermTest
+version: 1.0
+website: http://forums.joe.to
+author: mbaxter
+description: Quickly check if you have a permission
+commands:
+  permtest:
+    description: Check on a permission
+    usage: |
+      /permtest permission
