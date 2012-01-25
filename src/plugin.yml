@@ -1,6 +1,6 @@
 name: PermTest
 main: to.joe.permtest.PermTest
-version: 1.0
+version: 2.0
 website: http://forums.joe.to
 author: mbaxter
 description: Quickly check if you have a permission
